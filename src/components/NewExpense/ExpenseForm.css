@@ -1,0 +1,22 @@
+.expense-form input {
+    font: inherit;
+    padding: 0.5rem;
+    border-radius: 12px;
+    border: 1px solid #ccc;
+    width: 20rem;
+    max-width: 100%;
+}
+
+.expense-form div {
+    padding: 0.5rem;
+}
+
+.expense-form label {
+    display: block;
+    font-weight: bold;
+    color: black;
+}
+
+.form-actions {
+    text-align: right;
+}

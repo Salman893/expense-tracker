@@ -1,0 +1,15 @@
+.filter-div {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.filter-div label{
+    text-align: left;
+    font: inherit;
+}
+
+.filter-div select {
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+}

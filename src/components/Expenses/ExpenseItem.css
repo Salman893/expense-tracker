@@ -1,0 +1,23 @@
+.expense-item {
+    margin-bottom: 1rem;
+    background-color: #4b4b4b;
+}
+
+.expense-item div{
+    display: inline-block;
+    margin-right: 3rem;
+    text-align: right;
+    width: 10rem;
+    vertical-align: text-top;
+}
+
+.expense-item div h2 {
+    margin: 0;
+}
+
+
+
+
+
+
+
